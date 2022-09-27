@@ -1,3 +1,5 @@
+// dummy data added - Carl
+
 import {
   Box,
   Flex,
@@ -11,6 +13,7 @@ import {
   MenuList,
   useColorMode,
   useColorModeValue,
+  dummydata,
 } from "@chakra-ui/react";
 import React from "react";
 import logo from "../img/logo.png";
